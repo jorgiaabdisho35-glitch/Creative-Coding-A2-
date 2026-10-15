@@ -1,7 +1,8 @@
 # Creative-Coding-A2-
-Project Name
+Calming sound scape prototype 
 
-Outline a brief description of your project. Live demo here.
+A mood-responsive musical soundscape created in TunePad using Python-based coding. The prototype explores how music can be adapted to reflect different emotional states through changing musical notes and patterns. 
+https://tunepad.com/project/133681
 Table of Contents
 
 General Info

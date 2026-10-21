@@ -1,19 +1,30 @@
-# Creative-Coding-A2-
-Project Name
+**# Creative-Coding-A2-
+****Project Name**
 
 Outline a brief description of your project. Live demo here.
+
 Table of Contents
 
 General Info
+
 Technologies Used
+
 Features
+
 Screenshots
+
 Setup
+
 Usage
+
 Project Status
+
 Room for Improvement
+
 Acknowledgements
+
 Contact
+
 General Information
 
 Provide general information about your project here.

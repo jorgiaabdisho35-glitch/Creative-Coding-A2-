@@ -8,16 +8,7 @@ This project uses TunePad to construct a mood-responsive music prototype in Pyth
 	
 ## Technologies
 Project is created with:
-python 
-tunepad 
-loops and functions 
+python,
+tunepad,
+loops and functions,
 python conditionals
-	
-## Setup
-To run this project, install it locally using npm:
-
-```
-$ cd ../lorem
-$ npm install
-$ npm start
-```
